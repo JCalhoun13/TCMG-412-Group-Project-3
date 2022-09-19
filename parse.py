@@ -1,6 +1,8 @@
 total_requests = 0
 past_sixmonths = 0
 
+
+##change filename
 for line in open(filename):
     fileinfo = line.split()
     
